@@ -1,0 +1,63 @@
+@media screen and (max-width: 1024px) {
+.preview {
+  width:60%;
+    margin-left: 2%;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .preview {
+font-size: 15px;
+  }
+    .h{
+font-size: 20px;
+  }
+  .dreamteam{
+  margin: 0 auto;
+  width: 350px;
+  height: 350px;
+}
+}
+
+@media screen and (max-width: 768px) {
+  .preview {
+  width:60%;
+    margin-left: 2%;
+  }
+}
+
+@media screen and (max-width: 603px) {
+  .preview{
+    margin:0 auto;
+    width: 90%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    padding: 4%;
+  }
+
+
+.h{
+  text-transform: capitalize;
+  font-size: 20px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-weight: bold;
+}
+#tn{
+  width: 100%;
+}
+.dreamteam{
+  margin: 0 auto;
+  width: 280px;
+  height: 280px;
+}
+
+.note{
+  font-size: 12px;
+  color: grey;
+}
+.atb{
+  text-align: center;
+}
+
+}
