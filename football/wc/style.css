@@ -1,0 +1,133 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+html, body { height: 100%; 
+    width: 100%; 
+    margin: 0; 
+    background-color: #f7f7fc;
+    overflow-x: hidden;
+    font-family: arial;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+    }
+
+.fantasypreviews_1 {margin:0 auto; margin-top:1%; width: 728px; height: 90px; } 
+
+  .preview{
+  width:65%;
+  height: auto;
+  background-color: white;
+  margin-left: 7%;
+  margin-top: 1%;
+  margin-bottom: 5%;
+  padding: 0% 2% 2% 2%;
+  font-family: arial;  
+  font-size: 16px;
+
+}
+
+
+
+.h{
+  text-transform: capitalize;
+  font-size: 22px;
+  margin-top: 3%;
+   margin-bottom: 1%;
+  font-weight: bold;
+  color: #e50000;
+  line-height: 30px;
+  
+}
+
+ul{
+  margin-top: 1%;
+  margin-left: 5%;
+  line-height: 30px;
+  
+}
+
+.dds{
+  text-transform: capitalize;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+
+.subs{
+text-transform: capitalize;
+line-height: 30px;
+}
+
+.art{
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+}
+
+.dreamteam{
+  margin: 0 auto;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+.atb{
+  text-transform: capitalize;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  text-align: center;
+  line-height: 30px;
+}
+
+.note{
+  font-size: 14px;
+  color: grey;
+  line-height: 30px;
+}
+
+table {
+  margin: 0 auto;
+    border-collapse: collapse;
+    width: 65%;
+    margin-top: 2%;
+line-height: 30px;
+}
+
+td, th {
+    border: none;
+    text-align: center;
+    padding: 8px;
+    width: 30%;
+    color: white;
+      text-transform: capitalize;
+line-height: 30px;
+}
+
+tr {
+    background-color: #3f3f3f;
+}
